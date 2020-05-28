@@ -8,7 +8,8 @@ Baza de date a aplicatiei va contine : Id-ul filmului/serialului, titlul, direct
 
 ## Database Diagram Schema
 
-![diagrama](https://user-images.githubusercontent.com/61286589/83132922-c3715f80-a0ea-11ea-89b4-8a6bf8dec23e.png)
+![diagrama1](https://user-images.githubusercontent.com/61286589/83144394-ed7f4d80-a0fb-11ea-9023-58d7d047f335.png)
+
 
 
 In aceasta aplicatie am folsit urmatoarele tabele in baza de date:
@@ -16,7 +17,7 @@ In aceasta aplicatie am folsit urmatoarele tabele in baza de date:
 * Users
 * Films
 * Serialss
-* Watchlist
+* ComingSoon
 * Genres
 * DivertismentTypes
 
