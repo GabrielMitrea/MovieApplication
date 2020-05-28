@@ -13,9 +13,9 @@ Baza de date a aplicatiei va contine : Id-ul filmului/serialului, titlul, direct
 
 In this application I used the following tables:
 
-*Users
-*Films
-*Serialss
-*Watchlist
-*Genres
-*DivertismentTypes
+* Users
+* Films
+* Serialss
+* Watchlist
+* Genres
+* DivertismentTypes
