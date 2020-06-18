@@ -8,7 +8,7 @@ Baza de date a aplicatiei va contine : Id-ul filmului/serialului, titlul, direct
 
 ## Database Diagram Schema
 
-![Fără titlu](https://user-images.githubusercontent.com/61286589/85062133-9fb4ad00-b1b0-11ea-8b83-18c08b060a52.png)
+![diag](https://user-images.githubusercontent.com/61286589/85062853-e9ea5e00-b1b1-11ea-8fa2-fee80c195d0c.png)
 
 
 
